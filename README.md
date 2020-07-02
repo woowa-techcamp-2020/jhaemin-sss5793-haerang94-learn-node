@@ -17,3 +17,9 @@
 ### Network
 
 - [net으로 http 구현하기](https://github.com/woowa-techcamp-2020/jhaemin-sss5793-haerang94-learn-node/tree/master/network/net)
+
+## 회고
+
+**장해민**
+
+> 처음 해보는 과제들이 많아서 지금껏 접하지 못한 경험을 할 수 있어 보람찼습니다.
