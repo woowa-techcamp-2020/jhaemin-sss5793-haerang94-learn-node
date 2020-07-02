@@ -33,6 +33,8 @@ node --inspect-brk main.js # main.js를 디버깅
 
 ![DevTools](https://user-images.githubusercontent.com/19797697/86322030-24093480-bc75-11ea-95f9-8f7a639f1ae8.png)
 
+> Chrome Debugger 사용법은 [이 문서](https://github.com/woowa-techcamp-2020/jhaemin-sss5793-haerang94-learn-node/blob/master/doc/chrome-debugger.md)에 기술되어있습니다.
+
 ### 참조
 
 - [Official Node.js Debugging Guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
